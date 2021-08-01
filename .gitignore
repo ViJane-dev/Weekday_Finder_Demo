@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/swift,xcode,Cobjective-c,osx
 # Edit at https://www.toptal.com/developers/gitignore?templates=swift,xcode,Cobjective-c,osx
 
 #!! ERROR: cobjective-c is undefined. Use list command to see defined gitignore types !!#
 
 ### OSX ###
+=======
+
+# Created by https://www.toptal.com/developers/gitignore/api/swift,xcode,macos
+# Edit at https://www.toptal.com/developers/gitignore?templates=swift,xcode,macos
+
+### macOS ###
+>>>>>>> Features
 # General
 .DS_Store
 .AppleDouble
@@ -95,9 +103,15 @@ playground.xcworkspace
 
 Carthage/Build/
 
+<<<<<<< HEAD
 # Accio dependency management
 Dependencies/
 .accio/
+=======
+# Add this lines if you are using Accio dependency management (Deprecated since Xcode 12)
+# Dependencies/
+# .accio/
+>>>>>>> Features
 
 # fastlane
 # It is recommended to not store the screenshots in the git repo.
@@ -133,4 +147,8 @@ iOSInjectionProject/
 !*.xcworkspace/contents.xcworkspacedata
 **/xcshareddata/WorkspaceSettings.xcsettings
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/swift,xcode,Cobjective-c,osx
+=======
+# End of https://www.toptal.com/developers/gitignore/api/swift,xcode,macos
+>>>>>>> Features

@@ -43,3 +43,4 @@ class ViewController: UIViewController {
     }
 }
 
+// TODO: create new field for weather in the day there
